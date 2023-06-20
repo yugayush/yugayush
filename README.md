@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yug Ayush</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/yugayush/yugayush/assets/96907682/b7321e64-d92e-4b9a-8920-f90cb99a09fa.gif">
+<img alt="Coder GIF" align="right" height=200 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
 
