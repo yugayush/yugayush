@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yug Ayush</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A Passionate Web developer from Pune, India</h3>
 <img alt="Coder GIF" align="right" height=200 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
