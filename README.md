@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My Portfolio Website (https://yugswarnkar-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio Website https://yugswarnkar-portfolio.netlify.app/
 
 - 📫 Reach me at **yugayush123@gmail.com**
 
