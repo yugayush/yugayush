@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yug Ayush</h1>
-<h3 align="center">A Passionate Web developer from Pune, India</h3>
+<h1 align="center">Hi 👋, I'm Yug</h1>
+<h3 align="center">Developer | Student | Freelancer</h3>
 <img alt="Coder GIF" align="right" height=200 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
@@ -8,13 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/yugayush_" target="blank"><img src="https://img.shields.io/twitter/follow/yugayush_?logo=twitter&style=for-the-badge" alt="yugayush_" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently learning **React**
 
 - 👨‍💻 My Portfolio Website https://yugswarnkar-portfolio.netlify.app/
 
 - 📫 Reach me at **yugayush123@gmail.com**
 
+- 💻 Intermediate Web Developer
+
 - ⚡ Fun fact **I am Funny 😂**
+
+- 🔍 OpenSource Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
