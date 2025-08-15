@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yug</h1>
-<h3 align="center">Developer | Student | Freelancer</h3>
+<h3 align="center">Software Developer | Freelancer</h3>
 <img alt="Coder GIF" align="right" height=200 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
