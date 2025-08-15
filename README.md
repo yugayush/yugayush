@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/yugayush_" target="blank"><img src="https://img.shields.io/twitter/follow/yugayush_?logo=twitter&style=for-the-badge" alt="yugayush_" /></a> </p>
 
-- 🌱 Currently learning **React**
+- 🌱 Currently learning **SpringBoot & AWS**
 
 - 👨‍💻 My Portfolio Website https://yugswarnkar-portfolio.netlify.app/
 
 - 📫 Reach me at **yugayush123@gmail.com**
 
-- 💻 Intermediate Web Developer
+- 💻 FullStack Developer, Upcoming SDE
 
 - ⚡ Fun fact **I am Funny 😂**
 
